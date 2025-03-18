@@ -5,6 +5,8 @@ my first threejs
 
 ### 参考资料
 
+[github examples](https://github.com/mrdoob/three.js/tree/master/examples)
+
 [https://threejs.org/](https://threejs.org/)
 
 [bilibili](https://www.bilibili.com/video/BV1Zm421g7oi?spm_id_from=333.788.videopod.episodes&vd_source=5a027e6c387a0c88a9acbd01d833354a)
